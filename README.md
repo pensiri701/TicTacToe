@@ -1,10 +1,8 @@
 # TicTacToe
-
-# run file index.php 
+- run file index.php 
 
 ## Result 
 
-### Win 
 <img src="/screenshot/win.png"/>
 
 ### Lost
