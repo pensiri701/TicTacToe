@@ -1,12 +1,14 @@
 # TicTacToe
 
-#code in index.php 
+# run file index.php 
 
-##Result 
+## Result 
 
-###Win 
-<img src="/screenshot/win.png" alt=""/>
-###Lost
-<img src="/screenshot/lost.png" alt=""/>
-###Draw
+### Win 
+<img src="/screenshot/win.png"/>
+
+### Lost
+<img src="/screenshot/lost.png"/>
+
+### Draw
 <img src="/screenshot/draw.png" alt=""/>
